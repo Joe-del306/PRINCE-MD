@@ -6,7 +6,7 @@
     "logo": "https://telegra.ph/file/7aa528767ed96ddc17bc2.jpg",
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
     "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {prince_md-KI8nwRQD#t70-_sQD-5-8iOW0PpnSYHwCSXd51CYef65e3b-Zq6w
       "description": "your session ID here",
       "value": "",
       "required": true
